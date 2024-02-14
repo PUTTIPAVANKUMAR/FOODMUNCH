@@ -1,0 +1,154 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+.food-munch-logo{
+    height: 100px;
+    width: 100px;
+}
+#why-choose-us{
+    font-weight: bold;
+    color: rgb(46, 44, 44);
+}
+.background-get-delicious-food{
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/foodmunch-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+    
+}
+.get-delicious-food{
+    color: white;
+}
+.para-eat-smart-healthy{
+    color: white;
+    font-size: 30px;
+}
+.button-view-more{
+    border-radius: 10px;
+    border-width: 0px;
+    height: 6vh;
+    background-color: rgb(247, 247, 12);
+    color:#298cee;
+}
+.button-order-now{
+    background-color: transparent;
+    border-width: 1px;
+    border-radius: 10px;
+    height: 6vh;
+    color:yellow;
+    border-color: rgb(212, 212, 63);
+}
+
+
+.background1{
+    background-color:#e1e9eb;
+}
+.background2{
+    background-color:#fafafa;
+    border-radius: 10px;
+}
+.image{
+    height: 100px;
+    width: 100px;
+}
+.food-service{
+    font-size: 25px;
+}
+.offer{
+    color: black;
+}
+
+
+.background-explore-menue{
+    background-color:  rgb(201, 205, 201);
+}
+.background-non-veg{
+    background-color: rgb(246, 245, 245);
+    border-radius: 15px;
+}
+.image-non-veg {
+    height: 200px;
+    width: 200px;
+    border-radius: 10px;    
+}
+.non-veg-starters{
+    font-size: 30px;
+}
+.view-all{
+    font-size: 20px;
+}
+
+
+.healthy-food-section{
+    background-color: rgb(231, 239, 239);
+}
+.image-healthyfood{
+    height: 280px;
+    width: 250px;
+    border-radius: 50px;
+}
+.backgroundColor{
+    background-color:white;
+}
+.head-healthyFood{
+    font-size: 25px;
+    font-weight: bold;
+}
+.button-healthyFood{
+    background-color: #d0b200;
+    color: white;
+    width: 130px;
+    height: 45px;
+    border-radius: 8px;
+    border-width:0px;
+}
+
+
+.background-DP{
+    background-color: rgb(225, 243, 237);
+}
+.imageDP{
+    height: 300px;
+    width: 300px;
+}
+.background-imageDP{
+    background-color: white;
+    border-radius: 20px;
+}
+.head-DP{
+    font-size: 30px;
+    font-weight: bold;
+}
+.button-DP{
+    background-color: #d0b200;
+    height: 50px;
+    width: 130px;
+    color: white;
+    border-width: 0px;
+    border-radius: 10px;
+}
+.visa-DP{
+    height: 100px;
+    width: 100px;
+}
+
+
+.background-thankCustomerSec{
+    background-image: radial-gradient(#fff8db,#fae38c);
+}
+.head-TCS{
+    font-size: 30px;
+    font-weight: bold;
+}
+.para-TCS{
+    color: rgb(75, 78, 78);
+}
+.image-TCS {
+    height: 300px;
+    width: 300px;
+}
+.redeem-gift{
+    background-image: linear-gradient(#d0b200,#a58d00);
+    color: white;
+    height: 45px;
+    width: 130px;
+    border-width: 0px;
+    border-radius: 10px;
+}
